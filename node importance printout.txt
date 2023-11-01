@@ -1,0 +1,159 @@
+Graph: dblp2005
+Node importance:
+                           Author name  Pagerank score
+0                              Wen Gao        0.000175
+1                      Chin-Chen Chang        0.000152
+2                          Wei-Ying Ma        0.000135
+3                               Xin Li        0.000128
+4                         Licheng Jiao        0.000124
+5                     Francky Catthoor        0.000122
+6                      H. Vincent Poor        0.000119
+7                           Zhaohui Wu        0.000118
+8                    Hans-Peter Seidel        0.000117
+9                        Xianlong Hong        0.000114
+10                      Mario Piattini        0.000109
+11                           Wei Zhang        0.000108
+12                    Tharam S. Dillon        0.000108
+13                           Minglu Li        0.000108
+14                       Samuel Pierre        0.000104
+15                      Witold Pedrycz        0.000102
+16                       Guanrong Chen        0.000101
+17                             Wei Liu        0.000101
+18                             Hai Jin        0.000100
+19                      David J. Evans        0.000098
+20                         Mario Gerla        0.000097
+21                            Bin Wang        0.000097
+22                            Wei Wang        0.000097
+23  Alberto L. Sangiovanni-Vincentelli        0.000096
+24                       Jinxiang Dong        0.000095
+25                         Kaushik Roy        0.000093
+26                    Heung-Yeung Shum        0.000093
+27                           Hong Shen        0.000092
+28                   Donald F. Towsley        0.000092
+29                          Yong Zhang        0.000091
+30                  Norman C. Beaulieu        0.000090
+31                  Mahmut T. Kandemir        0.000090
+32                        Philip S. Yu        0.000090
+33                  Azzedine Boukerche        0.000089
+34                            Fang Liu        0.000089
+35                  Mani B. Srivastava        0.000089
+36                       Ajith Abraham        0.000089
+37                        Yvon Savaria        0.000088
+38                        Tak-Wai Chan        0.000088
+39                       Elisa Bertino        0.000087
+40                              Yan Li        0.000087
+41                             Jing Li        0.000087
+42                           Yan Zhang        0.000087
+43                            Xiang Li        0.000086
+44                        Jiannong Cao        0.000086
+45                              Lei Li        0.000086
+46                           Tao Zhang        0.000086
+47                      Chao-Tung Yang        0.000085
+48                       Hsinchun Chen        0.000085
+49                      Katsumi Tanaka        0.000084
+Graph: dblp2006
+Node importance:
+              Author name  Pagerank score
+0                 Wen Gao        0.000167
+1         Chin-Chen Chang        0.000143
+2                 Qing Li        0.000123
+3                  Hui Li        0.000118
+4              Yong Zhang        0.000117
+5                  Xin Li        0.000113
+6               Yan Zhang        0.000113
+7           Xiaodong Wang        0.000111
+8                Wei Wang        0.000109
+9                 Hai Jin        0.000107
+10                Wei Liu        0.000106
+11       Francky Catthoor        0.000105
+12                Yong Yu        0.000105
+13            Wei-Ying Ma        0.000102
+14              Wei Zhang        0.000101
+15                Ying Li        0.000100
+16             Zhaohui Wu        0.000098
+17         Mario Piattini        0.000097
+18               Li Zhang        0.000095
+19        Masayuki Murata        0.000094
+20            Mario Gerla        0.000093
+21               Yu Zhang        0.000093
+22               Fang Liu        0.000092
+23                Jian Li        0.000091
+24  Laurence Tianruo Yang        0.000089
+25                Jing Li        0.000089
+26          C. C. Jay Kuo        0.000088
+27                 Yan Li        0.000086
+28              Jian Wang        0.000086
+29          Samuel Pierre        0.000086
+30              Yang Xiao        0.000086
+31                 Tao Li        0.000085
+32               Ying Liu        0.000084
+33              Yang Yang        0.000083
+34                 Wei Li        0.000083
+35      Hans-Peter Seidel        0.000083
+36        Luc J. Van Gool        0.000082
+37               Hao Wang        0.000081
+38              Minglu Li        0.000081
+39            Lajos Hanzo        0.000080
+40            Luca Benini        0.000080
+41   Nicholas R. Jennings        0.000080
+42          Elisa Bertino        0.000080
+43            Xuemin Shen        0.000079
+44              Tao Zhang        0.000079
+45          Hsinchun Chen        0.000078
+46         Piet Demeester        0.000078
+47              Yong Wang        0.000078
+48        Thomas S. Huang        0.000078
+49                 Bin Li        0.000078
+Graph: dblp2005w
+Node importance:
+                           Author name  Pagerank score
+0                              Wen Gao        0.000175
+1                      Chin-Chen Chang        0.000152
+2                          Wei-Ying Ma        0.000135
+3                               Xin Li        0.000128
+4                         Licheng Jiao        0.000124
+5                     Francky Catthoor        0.000122
+6                      H. Vincent Poor        0.000119
+7                           Zhaohui Wu        0.000118
+8                    Hans-Peter Seidel        0.000117
+9                        Xianlong Hong        0.000114
+10                      Mario Piattini        0.000109
+11                           Wei Zhang        0.000108
+12                    Tharam S. Dillon        0.000108
+13                           Minglu Li        0.000108
+14                       Samuel Pierre        0.000104
+15                      Witold Pedrycz        0.000102
+16                       Guanrong Chen        0.000101
+17                             Wei Liu        0.000101
+18                             Hai Jin        0.000100
+19                      David J. Evans        0.000098
+20                         Mario Gerla        0.000097
+21                            Bin Wang        0.000097
+22                            Wei Wang        0.000097
+23  Alberto L. Sangiovanni-Vincentelli        0.000096
+24                       Jinxiang Dong        0.000095
+25                         Kaushik Roy        0.000093
+26                    Heung-Yeung Shum        0.000093
+27                           Hong Shen        0.000092
+28                   Donald F. Towsley        0.000092
+29                          Yong Zhang        0.000091
+30                  Norman C. Beaulieu        0.000090
+31                  Mahmut T. Kandemir        0.000090
+32                        Philip S. Yu        0.000090
+33                  Azzedine Boukerche        0.000089
+34                            Fang Liu        0.000089
+35                  Mani B. Srivastava        0.000089
+36                       Ajith Abraham        0.000089
+37                        Yvon Savaria        0.000088
+38                        Tak-Wai Chan        0.000088
+39                       Elisa Bertino        0.000087
+40                              Yan Li        0.000087
+41                             Jing Li        0.000087
+42                           Yan Zhang        0.000087
+43                            Xiang Li        0.000086
+44                        Jiannong Cao        0.000086
+45                              Lei Li        0.000086
+46                           Tao Zhang        0.000086
+47                      Chao-Tung Yang        0.000085
+48                       Hsinchun Chen        0.000085
+49                      Katsumi Tanaka        0.000084
